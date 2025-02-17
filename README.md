@@ -1,3 +1,7 @@
+# E-COMMERCE CAPSTONE PROJECT FOR REACT NATIVE CLASS
+
+This project is for teaching the fundamentals of react native to the BCA students of Trinity Institute of Professional Studies, Dwarka.
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
