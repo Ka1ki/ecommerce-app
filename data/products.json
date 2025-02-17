@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Headphones",
+    "price": 49.99,
+    "image": "https://placehold.co/300x300",
+    "description": "High-quality wireless headphones with noise cancellation."
+  },
+  {
+    "id": 2,
+    "name": "Smartphone",
+    "price": 299.99,
+    "image": "https://placehold.co/300x300",
+    "description": "Latest model smartphone with a high-resolution display and fast processor."
+  },
+  {
+    "id": 3,
+    "name": "Smartwatch",
+    "price": 99.99,
+    "image": "https://placehold.co/300x300",
+    "description": "Track your fitness and receive notifications on the go."
+  },
+  {
+    "id": 4,
+    "name": "Bluetooth Speaker",
+    "price": 39.99,
+    "image": "https://placehold.co/300x300",
+    "description": "Portable Bluetooth speaker with deep bass and long battery life."
+  },
+  {
+    "id": 5,
+    "name": "Laptop",
+    "price": 799.99,
+    "image": "https://placehold.co/300x300",
+    "description": "Powerful laptop with high-performance specs for work and gaming."
+  },
+  {
+    "id": 6,
+    "name": "Gaming Mouse",
+    "price": 29.99,
+    "image": "https://placehold.co/300x300",
+    "description": "Ergonomic gaming mouse with customizable buttons and RGB lighting."
+  },
+  {
+    "id": 7,
+    "name": "Mechanical Keyboard",
+    "price": 69.99,
+    "image": "https://placehold.co/300x300",
+    "description": "Mechanical keyboard with tactile switches and customizable RGB."
+  },
+  {
+    "id": 8,
+    "name": "Action Camera",
+    "price": 199.99,
+    "image": "https://placehold.co/300x300",
+    "description": "4K action camera with waterproof design and image stabilization."
+  }
+]
